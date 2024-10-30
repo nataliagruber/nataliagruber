@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Nat, and I'm a Computer Science student and learning developer. After many years of scrolling, I've decided to get back into things that bring me more joy, such as writing and learning cool stuff. 
+I'm Nat, and I'm a Computer Science student and beginner developer. After many years of scrolling, I've decided to get back into things that bring me more joy, such as writing and learning cool stuff. 
 
 Currently I'm working on getting my personal site up, as well as setting up a new blog with Jekyll, as well as setting up an educational site with my partner and best friend - I'm an English as Additional Language teacher by trade. 
 
